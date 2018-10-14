@@ -74,7 +74,7 @@ class Auth extends Component {
                     <input type="passsword" name="passwordInput" value={this.state.passwordInput} onChange={e => this.updateInput(e)} />
 
 
-                    <button>Create Coolboy</button>
+                    <button>Create</button>
                 </form>
 
 
@@ -90,7 +90,7 @@ class Auth extends Component {
                     <input type="passsword" name="loginPassword" value={this.state.loginPassword} onChange={e => this.updateInput(e)} />
 
 
-                    <button>Login Coolboy</button>
+                    <button>Login</button>
                 </form>
 
 
