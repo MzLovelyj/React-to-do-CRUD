@@ -95,6 +95,12 @@ class Auth extends Component {
 
 
 
+
+
+
+
+
+
             </div>
         )
     }
